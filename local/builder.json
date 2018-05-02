@@ -1,0 +1,24 @@
+{
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [
+    "x86",
+    "armeabi-v7a",
+    "arm64-v8a",
+    "armeabi"
+  ],
+  "buildPath": "./build",
+  "debug": true,
+  "includeEruda": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}

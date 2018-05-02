@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropDownButton",
+    "texture": "7853b2af-98d4-4fba-865c-d073b0ebc1c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      90
+    ]
+  }
+}
